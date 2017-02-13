@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  breed: one
+  dob: 2017-02-13
+  vet: one
+  in_daycare: false
+
+two:
+  name: MyString
+  breed: two
+  dob: 2017-02-13
+  vet: two
+  in_daycare: false
